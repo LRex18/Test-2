@@ -1,2 +1,3 @@
-![Texture RX](https://user-images.githubusercontent.com/126111273/221267486-3f6c28c4-b233-4c24-8201-18270ce7a29a.png)
+![Texture RX2](https://user-images.githubusercontent.com/126111273/221274048-831cca37-9872-4edd-83b1-8ac2986c3d36.png)
+
 # Test-2
