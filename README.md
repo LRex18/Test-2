@@ -1,3 +1,4 @@
+![test color punto rojo](https://user-images.githubusercontent.com/126111273/223809204-84214d95-1016-478a-a90d-7e1c5a4c56cb.png)
 ![test color blue](https://user-images.githubusercontent.com/126111273/223808782-f8d7eac6-d34a-4d30-b3cf-4bd2470104e0.png)
 ![punto test valo](https://user-images.githubusercontent.com/126111273/223808436-8bfdb121-8968-48c7-8d36-685331e8201d.png)
 ![mira punto valorant](https://user-images.githubusercontent.com/126111273/223807659-35fc2ff7-4a41-4415-870f-eb7500d5c042.png)
