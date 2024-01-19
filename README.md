@@ -1,3 +1,4 @@
+![outTexture1-sharedassets0_v3_By_Cool_Milk](https://github.com/LRex18/Test-2/assets/126111273/6c6c57b1-dd9b-490b-bf4d-3a00e5ff2a22)
 ![puntero fijo](https://user-images.githubusercontent.com/126111273/223810548-1589a4af-1e51-4046-97b8-40de2562028f.png)
 ![test color punto rojo](https://user-images.githubusercontent.com/126111273/223809204-84214d95-1016-478a-a90d-7e1c5a4c56cb.png)
 ![test color blue](https://user-images.githubusercontent.com/126111273/223808782-f8d7eac6-d34a-4d30-b3cf-4bd2470104e0.png)
